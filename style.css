@@ -1,0 +1,28 @@
+/*CSS tips Almost all browser applies default css. webpage has all over boxes...we can change and play with heights,
+Body tag height will not change easily as it has default setups which will prevent*/
+body {
+    background-color : antiquewhite;
+}
+hr {
+    border-style: dotted none none;
+    border-width : 5px;
+    border-top-color:red;
+    background-color: none;
+    width : 3%;
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+    color:#66bfbf;
+}
+ins{
+    text-decoration-color: red;
+}
+
+#contact{
+    color:black;
+    padding-left: 45%;
+}
+
+
